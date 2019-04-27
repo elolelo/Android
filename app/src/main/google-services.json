@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "625631447839",
+    "firebase_url": "https://expense-manager-app-ab08b.firebaseio.com",
+    "project_id": "expense-manager-app-ab08b",
+    "storage_bucket": "expense-manager-app-ab08b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625631447839:android:e66b08f965385aa8",
+        "android_client_info": {
+          "package_name": "com.example.lelo_sexpensemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625631447839-e4rpflip36vr94rmm7jntqk2ivk0vcth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lelo_sexpensemanager",
+            "certificate_hash": "c257708b33cea67cb4ec25f676ff00db8e728e42"
+          }
+        },
+        {
+          "client_id": "625631447839-5bamufb63slf8cicvnsuuddqffckgtrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBssyX2P4B1zhct4KAXfXY_Qts2KKjZ8vE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625631447839-5bamufb63slf8cicvnsuuddqffckgtrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
